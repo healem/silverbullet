@@ -389,7 +389,7 @@ a:focus {
 
 #g p price {
 	color: #da4e02;
-	font-size: 160px;
+	font-size: 100px;
 }
 
 
@@ -404,6 +404,10 @@ a:focus {
 	width: 100%;
 	padding-top: 80px;
 	padding-bottom: 60px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
 }
 
 /* Footer */
